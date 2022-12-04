@@ -13,3 +13,8 @@ employee_number = 150
 amount_paid = 800.50
 amount_due = 1234.56
 remaining_balance = 6543.21
+
+# Booleans
+deposit_paid = true
+aged_today = false
+learning_things = true
