@@ -1,4 +1,4 @@
-# Strings
+## Strings
 first_name = "Brian"
 last_name = "Guthrie"
 email = "helloworld@gmail.com"
@@ -24,6 +24,9 @@ first_name = "Karl"
 last_name = "Guy"
 email = "goodbyeworld@gmail.com"
 
-puts = first_name
-puts = last_name
-puts = email
+puts "#{first_name}"
+puts "#{last_name}"
+puts "#{email}"
+puts "age"
+puts learning_things
+puts "duuhhhhhhhhh"
