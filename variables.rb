@@ -18,3 +18,12 @@ remaining_balance = 6543.21
 deposit_paid = true
 aged_today = false
 learning_things = true
+
+# Reassigned Values
+first_name = "Karl"
+last_name = "Guy"
+email = "goodbyeworld@gmail.com"
+
+puts = first_name
+puts = last_name
+puts = email
